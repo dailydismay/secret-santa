@@ -1,0 +1,9 @@
+config/prod*
+web/node_modules
+playground.go
+*.todo
+
+*.env.*
+!*.env.example
+
+vendor
